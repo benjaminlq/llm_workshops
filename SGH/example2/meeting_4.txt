@@ -1,0 +1,29 @@
+======DATE: 20-Aug-2023======
+
+Doctor: Good morning. It's good to see you again. How have you been since our last meeting?
+
+Patient: Good morning, Doctor. I'm afraid I've been having some issues. My abdominal pain has become worse, and I've been experiencing diarrhea quite frequently.
+
+Doctor: I'm sorry to hear that. Could you tell me more about these symptoms? How long have they been going on, and have you noticed anything that makes them better or worse?
+
+Patient: The severe pain started around a week ago. It comes and goes, but it's much worse than before. The diarrhea started at about the same time. I haven't noticed anything that makes it better or worse, it just seems to happen.
+
+Doctor: I see. Have you noticed any blood in your stool recently, or any other changes?
+
+Patient: No, I haven't noticed any blood. But the stool is looser than usual, and I have to go to the bathroom much more often.
+
+Doctor: Okay. I appreciate your honesty. It seems like your condition may have worsened. Given your history of precancerous polyps, it's important that we address these symptoms promptly. I would recommend that we conduct another colonoscopy to check for any new polyps or other abnormalities.
+
+Patient: That sounds necessary, Doctor. I'm quite worried.
+
+Doctor: I understand your concern, but please remember that we're taking all the necessary steps to manage your condition. In the meantime, I would recommend that you stay hydrated, especially given the frequent diarrhea. Try to drink plenty of water and avoid foods that can irritate your digestive system, like spicy foods, dairy products, and high-fat foods.
+
+Patient: I see. I'll do my best to follow your recommendations, Doctor.
+
+Doctor: That's great to hear. We'll arrange for the colonoscopy as soon as possible. If any new polyps are found, we'll remove them during the procedure and send them for biopsy. We'll also conduct further tests to determine the cause of your worsening symptoms.
+
+Patient: Thank you, Doctor. I appreciate your help.
+
+Doctor: Of course. We're here to help you through this. Please let us know if your symptoms worsen or if you have any other concerns. See you at your next appointment.
+
+Patient: Thank you, Doctor. I'll do that.
